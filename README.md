@@ -4,27 +4,36 @@ A weather service application for cities using the Open Weather Map API and Angu
 
 <h2> A real time weather application that gives the current weather when the user inputs a city.</h2>
 
-![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/f15545fa-34e2-4401-a328-d28cbeedb4bf) ![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/672840ad-0088-4de7-ad5f-4f944f0fe484)
+![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/fdb4dc8b-2294-4bb4-af1f-6a886151c9e3) ![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/a1ef17cf-7d3f-44de-aa33-150a6a134f46)
 
-![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/9eb19886-9e03-4b69-8383-dfa0c22bdcf6) ![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/736dd85c-e099-4133-afba-7d17765664ef)
+![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/0ec0e279-6dbe-4e0a-b64c-f1f8ff853d00) ![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/ee1a6754-2e54-403d-957f-223a96d3eb29)
 
 <h2>The user can also alternate between the metric and imperial systems. </h2>
 
-![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/3126a5d9-bfa9-4ba9-98ab-92515a910f2d) ![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/8afcb7c1-ed10-48e4-83df-72bf6dbc2fa7)
+![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/105ab268-887a-4070-bfa2-5ec1ca0138cd)
+ ![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/2b994650-6c7f-433f-b241-383269c82800)
+
+
 
 <h2> Users can also check the weather for cities anywhere in the world.</h2>
 
-![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/3071bb87-bb44-4c9c-a7b1-66a48ca5407d) ![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/8a541f2d-b178-4785-8642-d0e62b5ce2db)
+![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/c4285aad-4022-4b38-9df7-2c03a8486080) ![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/7aa7ced5-bd2f-4da7-b0c4-f044cb0d53b0)
 
-![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/3d460476-974e-4049-88f2-b0c06f56cc92) ![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/3f7423b4-ca3e-476a-a811-c45821ac5bf8)
+![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/09654913-fecc-4acc-b220-4d972daef4ab) ![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/292413d3-1c07-4192-9ff0-fb040f4bca4f)
 
-![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/7a9e9897-3dbe-41db-91cc-7c327bebe5ca) ![image](https://github.com/Tamiyo22/Real-Time-Weather-Application/assets/30645979/1a130bd5-0df8-4bc9-8420-f43b3025e8f5)
+![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/690ceb32-c4b9-4da2-b3ce-36cadd2d0d7a) ![image](https://github.com/Tamiyo22/https---github.com-Tamiyo22-Real-time_Weather-Application/assets/30645979/6d3adc68-762d-4681-a0c5-0d8f57110dda)
+
+
+
+
+
+
 
 <h3> Made with Angular 16, designed with bootstrap, and weather API from https://openweathermap.org/<h3>
   
   This is the complete project without the api key. 
   
-  Replace {your_Open_API_Key} it in the weather.service.ts with your Open Weather API Key.
+  Replace 'YOUR API KEY GOES HERE' it in the weather.service.ts with your Open Weather API Key.
   
 <b>Links:</b>
 
